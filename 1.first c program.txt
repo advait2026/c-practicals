@@ -1,0 +1,27 @@
+
+#include <stdio.h>
+
+int main()
+{
+    printf("hello teacher");
+
+    return 0;
+}
+
+output:
+
+hello teacher
+
+Assignment:
+
+#include <stdio.h>
+
+int main()
+{
+    printf("welcome to the world of c");
+
+    return 0;
+}
+
+output:
+welcome to the world of c
